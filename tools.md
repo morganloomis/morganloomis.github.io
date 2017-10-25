@@ -2,6 +2,7 @@
 layout: page
 title: Tools
 permalink: /tools/
+group: navigation
 ---
 
 This is a collection of Maya tools I’ve written that I use on a daily basis. I’ve had so much help over the years from people sharing their scripts, that I’ve always wanted to do the same. Feel free to use, share and edit these.
