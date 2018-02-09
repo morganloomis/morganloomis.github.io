@@ -38,11 +38,11 @@ ml_arcTracer.ui()
 ## UI Options
 
 
-|<button type="button">Trace Camera</button>|Trace an arc as an overlay over the current camera.|Right-click to create a shelf or hotkey|
+| <button type="button">Trace Camera</button> | Trace an arc as an overlay over the current camera. | Right-click to create a shelf or hotkey| |
 |---|---|---|
-|<button type="button">Trace World</button>|Trace an arc in world space.|Right-click to create a shelf or hotkey|
-|<button type="button">Retrace Previous</button>|Retrace the previously traced arc.|Right-click to create a shelf or hotkey|
-|<button type="button">Clear Arcs</button>|Clear all arcs.|Right-click to create a shelf or hotkey|
+| <button type="button">Trace World</button> | Trace an arc in world space. | Right-click to create a shelf or hotkey| |
+| <button type="button">Retrace Previous</button> | Retrace the previously traced arc. | Right-click to create a shelf or hotkey| |
+| <button type="button">Clear Arcs</button> | Clear all arcs. | Right-click to create a shelf or hotkey| |
 ## Video Tutorial
 [![youtube](http://img.youtube.com/vi/xLA1aglvPYM/0.jpg)](http://www.youtube.com/watch?v=xLA1aglvPYM)
 ## Revision History
