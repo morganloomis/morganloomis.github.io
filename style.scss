@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $white;
+	background: $darkGray;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: $tan;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: $orange;
   font-weight: bold;
 
   line-height: 1.7;
@@ -61,7 +61,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $orange;
 }
 
 p {
@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $orange;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $darkOrange;
   }
 }
 
@@ -116,17 +116,17 @@ table {
 }
 table th {
   padding:21px 25px 22px 25px;
-  border-top:1px solid #fafafa;
-  border-bottom:1px solid #e0e0e0;
+  border-top:2px solid $gray;
+  border-bottom:2px solid $gray;
 }
 table tr {
-  padding-left:20px;
+  padding-left:8px;
 }
 table td {
-  padding:18px;
-  border-top: 2px solid #ffffff;
-  border-bottom:2px solid #e0e0e0;
-  border-left: 2px solid #e0e0e0;
+  padding:8px;
+  border-top: 2px solid $gray;
+  border-bottom:2px solid $gray;
+  border-left: 2px solid $gray;
 }
 
 
@@ -252,7 +252,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $orange;
     }
   }
 }
