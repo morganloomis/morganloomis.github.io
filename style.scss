@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $darkGray;
-  font: 12px/1.4 $helvetica;
+  font: 16px/1.4 $helvetica;
   color: $tan;
 }
 
@@ -115,12 +115,24 @@ table {
 }
 table th {
   padding:8px;
+  border-top: 2px solid $gray; 
+  border-bottom:2px solid $gray; 
+  border-left: 2px solid $gray; 
+  border-right: 2px solid $gray; 
 }
 table tr {
   padding:8px;
+  border-top: 2px solid $gray; 
+  border-bottom:2px solid $gray; 
+  border-left: 2px solid $gray; 
+  border-right: 2px solid $gray; 
 }
 table td {
   padding:8px;
+  border-top: 2px solid $gray; 
+  border-bottom:2px solid $gray; 
+  border-left: 2px solid $gray; 
+  border-right: 2px solid $gray; 
 }
 
 
@@ -170,7 +182,7 @@ table td {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $gray;
+  border-bottom: 1px solid $darkOrange;
 
   @include mobile {
     text-align: center;
