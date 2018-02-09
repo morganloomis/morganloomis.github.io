@@ -149,11 +149,11 @@ table td {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
+  color: $darkOrange;
   background: $lightGray;
 }
 ::selection {
-  color: $black;
+  color: $darkOrange;
   background: $lightGray;
 }
 
@@ -183,7 +183,7 @@ table td {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $gray;
 
   @include mobile {
     text-align: center;
@@ -271,7 +271,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $gray;
 }
 
 .posts > .post:last-child {
@@ -303,7 +303,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $black;
 }
 
 footer {
