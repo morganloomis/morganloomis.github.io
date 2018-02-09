@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $darkGray;
-  font: 18px/1.4 $helvetica;
+  font: 12px/1.4 $helvetica;
   color: $tan;
 }
 
@@ -33,7 +33,6 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $orange;
-  font-weight: bold;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -111,29 +110,17 @@ img {
 }
 
 table {
-  border:#ccc 2px solid;
+  border:$gray 2px solid;
   border-radius:3px;
 }
 table th {
   padding:8px;
-  border-top: 2px solid $gray;
-  border-bottom:2px solid $gray;
-  border-left: 2px solid $gray;
-  border-right: 2px solid $gray;
 }
 table tr {
   padding:8px;
-  border-top: 2px solid $gray;
-  border-bottom:2px solid $gray;
-  border-left: 2px solid $gray;
-  border-right: 2px solid $gray;
 }
 table td {
   padding:8px;
-  border-top: 2px solid $gray;
-  border-bottom:2px solid $gray;
-  border-left: 2px solid $gray;
-  border-right: 2px solid $gray;
 }
 
 
@@ -242,7 +229,7 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   color: $orange;
   font-family: $helveticaNeue;
-  font-size: 18px;
+  font-size: 20px;
 
   @include mobile {
     float: none;
@@ -301,8 +288,8 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
+  border-top: 1px solid $darkOrange;
+  border-bottom: 1px solid $darkOrange;
   background-color: $black;
 }
 
