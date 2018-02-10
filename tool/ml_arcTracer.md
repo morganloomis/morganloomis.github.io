@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Arc Tracer
 permalink: tool/ml_arcTracer/
 ---
 
