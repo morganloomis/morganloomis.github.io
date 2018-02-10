@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Arc Tracer ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_arcTracer.png)
+title: Arc Tracer
 permalink: tool/ml_arcTracer/
 ---
 
