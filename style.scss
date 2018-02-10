@@ -142,6 +142,17 @@ table td {
     border: none;
 }
 
+div.code{
+    border: 1px solid #CCC;
+    border-radius: 4px;
+    margin: 10px 1px;
+    padding: .5em 1em;
+    box-shadow: 2px 2px 4px -4px rgba(0,0,0,.25) inset;
+    overflow: auto;
+    position: relative;
+    counter-reset: linenumber;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
