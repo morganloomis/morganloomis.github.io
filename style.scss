@@ -135,6 +135,10 @@ table td {
   border-right: 2px solid $gray; 
 }
 
+pre {
+  background: $black;
+}
+
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
