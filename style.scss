@@ -135,26 +135,14 @@ table td {
   border-right: 2px solid $gray; 
 }
 
-code,
-.code,
-pre {
-  font-family: 'Source Code Pro';
-  background: $black;
-  color: $tan;
-  font-size: 16px;
-//  padding: 0;
-//  padding: 10px;
-  &:before {
-    display: block;
-//    width: calc(100% + 10px);
-//    margin-top: -10px;
-//    margin-left: -10px;
-//    padding: 5px;
-//    text-transform: uppercase;
-//    content: attr(data-lang);
-    background: $black;
-  }
+
+.code{
+    font-family: 'Source Code Pro', Monaco, Menlo, Consolas, "Courier New", monospace;
+    font-size: 13px;
+    background: #FFF;
+    border: none;
 }
+
 
 
 // Fixes images in popup boxes from Google Translate
@@ -168,10 +156,6 @@ pre {
 }
 
 // Specify the color of the selection
-::-moz-selection {
-  color: $darkOrange;
-  background: $lightGray;
-}
 ::selection {
   color: $darkOrange;
   background: $lightGray;
