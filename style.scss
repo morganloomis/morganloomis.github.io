@@ -135,8 +135,25 @@ table td {
   border-right: 2px solid $gray; 
 }
 
+code,
+.code,
 pre {
+  font-family: 'Source Code Pro';
   background: $black;
+  color: $lightGray;
+  font-size: 16px;
+  padding: 0;
+  padding: 10px;
+  &:before {
+    display: block;
+    width: calc(100% + 10px);
+    margin-top: -10px;
+    margin-left: -10px;
+    padding: 5px;
+    text-transform: uppercase;
+    content: attr(data-lang);
+    background: $black;
+  }
 }
 
 

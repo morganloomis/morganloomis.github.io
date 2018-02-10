@@ -4,11 +4,10 @@ title: Arc Tracer
 permalink: tool/ml_arcTracer/
 ---
 
-## ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_arcTracer.png) Arc Tracer
+![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_arcTracer.png) Download [ml_arcTracer](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_arcTracer.py)
 
-| ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_arcTracer.png) | [ml_arcTracer](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_arcTracer.py) |
-|---:|---|
 | Revision | 6 |
+|---:|---|
 | Last Update | 2017-06-30 |
 | License | [MIT](https://opensource.org/licenses/MIT) |
 
