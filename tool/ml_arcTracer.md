@@ -1,8 +1,10 @@
 ---
 layout: page
-title: ml_arcTracer
-permalink: help/ml_arcTracer/
+title: Arc Tracer
+permalink: tool/ml_arcTracer/
 ---
+
+## ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_arcTracer.png) Arc Tracer
 
 | ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_arcTracer.png) | [ml_arcTracer](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_arcTracer.py) |
 |---:|---|
@@ -40,11 +42,9 @@ ml_arcTracer.ui()
 
 
 |<button type="button">Trace Camera</button>|Trace an arc as an overlay over the current camera.|Right-click to create a shelf or hotkey|
-
+|---|---|---|
 |<button type="button">Trace World</button>|Trace an arc in world space.|Right-click to create a shelf or hotkey|
-
 |<button type="button">Retrace Previous</button>|Retrace the previously traced arc.|Right-click to create a shelf or hotkey|
-
 |<button type="button">Clear Arcs</button>|Clear all arcs.|Right-click to create a shelf or hotkey|
 
 ## Video Tutorial
