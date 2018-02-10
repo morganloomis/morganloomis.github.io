@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $darkGray;
+  background: $darkGray;
   font: 16px/1.4 $helvetica;
   color: $tan;
 }
@@ -177,17 +177,6 @@ pre {
   background: $lightGray;
 }
 
-// Nicolas Gallagher's micro clearfix hack
-// http://nicolasgallagher.com/micro-clearfix-hack/
-.clearfix:before,
-.clearfix:after {
-    content: " ";
-    display: table;
-}
-
-.clearfix:after {
-    clear: both;
-}
 
 /*********************/
 /* LAYOUT / SECTIONS */
