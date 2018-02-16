@@ -135,23 +135,6 @@ table td {
   border-right: 2px solid $gray; 
 }
 
-.code{
-    font-family: 'Source Code Pro', Monaco, Menlo, Consolas, "Courier New", monospace;
-    font-size: 13px;
-    background: #FFF;
-    border: none;
-}
-
-div.code{
-    border: 1px solid #CCC;
-    border-radius: 4px;
-    margin: 10px 1px;
-    padding: .5em 1em;
-    box-shadow: 2px 2px 4px -4px rgba(0,0,0,.25) inset;
-    overflow: auto;
-    position: relative;
-    counter-reset: linenumber;
-}
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
@@ -327,3 +310,22 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+
+.code{
+    font-family: 'Source Code Pro', Monaco, Menlo, Consolas, "Courier New", monospace;
+    font-size: 13px;
+    background: #FFF;
+    border: none;
+}
+
+div.code{
+    border: 1px solid #CCC;
+    border-radius: 4px;
+    margin: 10px 1px;
+    padding: .5em 1em;
+    box-shadow: 2px 2px 4px -4px rgba(0,0,0,.25) inset;
+    overflow: auto;
+    position: relative;
+    counter-reset: linenumber;
+}
