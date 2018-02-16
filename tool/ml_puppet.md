@@ -6,14 +6,14 @@ permalink: tool/ml_puppet/
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_puppet.png) Puppet
 Download [ml_puppet.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_puppet.py)
 
-| Revision | 23 |
+| Revision | 24 |
 |---:|---|
-| Last Update | 2017-07-07 |
+| Last Update | 2018-02-17 |
 | License | [MIT](https://opensource.org/licenses/MIT) |
 
 ## Description
 
- Support tools for puppets created by http://morganloomis.com/puppeteer
+ Support tools for puppets. 
 
 ## Installation
 
@@ -31,11 +31,19 @@ ml_puppet.main()
 
 ## Usage
 
- Launch the UI to see the options available. Press a button to make a selection or run a command. Right click buttons to create a hotkey for that option. All options are selection-sensitive, so for example if you have two puppets referenced into a scene, and select any part of one of them and run selectControls, it will select all the controls for that puppet only. With nothing selected it will select all controls in the scene. For Fk/Ik switching, select any part of the element you want to switch. So for an arm, you can select the ik hand control, the fk shoulder, the pole vector, and either way it will know to do the switch for that arm.
+ Launch the UI to see the options available. Press a button to make a selection or run a command. Right click buttons to create a hotkey for that option. All options are selection-sensitive, so for example if you have two puppets referenced into a scene, and select any part of one of them and run selectControls, it will select all the controls for that puppet only. With nothing selected it will select all controls in the scene. For Fk/Ik switching, select any part of the element you want to switch. So for an arm, you can select the ik hand control, the fk shoulder, the pole vector, and either way it will know to do the switch for that arm. 
 
 ## Requirements
 
- This script requires the ml_utilities module, which can be downloaded here: http://morganloomis.com/wiki/tools.html#ml_utilities
+ This script requires the ml_utilities module, which can be downloaded here: https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_utilities.py 
+
+## License
+
+ Copyright 2018 Morgan Loomis Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
+
+## Installation
+
+ Copy this file into your maya scripts directory, for example: C:/Documents and Settings/user/My Documents/maya/scripts/ml_puppet.py Run the tool in a python shell or shelf button by importing the module, and then calling the primary function: import ml_puppet ml_puppet.main() 
 
 ## Revision History
 
@@ -64,3 +72,4 @@ ml_puppet.main()
 |21|2017-06-29|full context menu for puppet node|
 |22|2017-06-30|proper testing for puppet|
 |23|2017-07-07|space switch and mirroring bugs|
+|24|2018-02-17|Updating license to MIT.|
