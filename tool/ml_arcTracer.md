@@ -6,9 +6,9 @@ permalink: tool/ml_arcTracer/
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_arcTracer.png) Arc Tracer
 Download [ml_arcTracer.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_arcTracer.py)
 
-| Revision | 7 |
+| Revision | 11 |
 |---:|---|
-| Last Update | 2018-02-17 |
+| Last Update | 2018-05-13 |
 | License | [MIT](https://opensource.org/licenses/MIT) |
 
 ## Description
@@ -36,10 +36,6 @@ ml_arcTracer.ui()
 ## Installation
 
  Copy this file into your maya scripts directory, for example: C:/Documents and Settings/user/My Documents/maya/scripts/ml_arcTracer.py Run the tool in a python shell or shelf button by importing the module, and then calling the primary function: import ml_arcTracer ml_arcTracer.ui() 
-
-## License
-
- Copyright 2018 Morgan Loomis Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
 
 ## Requirements
 
@@ -73,3 +69,7 @@ ml_arcTracer.ui()
 |5|2016-12-10|removing euclid dependency|
 |6|2017-06-30|Fixing bug with moving cameras, adding line width|
 |7|2018-02-17|Updating license to MIT.|
+|8|2018-04-09|Test for accuracy to determine whether the fast solution is accurate.|
+|9|2018-05-05|Adding shelf support.|
+|10|2018-05-06|Added marking menu.|
+|11|2018-05-13|shelf support|

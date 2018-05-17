@@ -37,10 +37,6 @@ ml_graphEditorMask.ui()
 
  Copy this file into your maya scripts directory, for example: C:/Documents and Settings/user/My Documents/maya/scripts/ml_graphEditorMask.py Run the tool in a python shell or shelf button by importing the module, and then calling the primary function: import ml_graphEditorMask ml_graphEditorMask.ui() 
 
-## License
-
- Copyright 2018 Morgan Loomis Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
-
 ## Ui
 
  [Channel Box] : Isolate curves based on channels highlighted in the channel box [Selected] : Isolate the selected curves [All] : Show all animation curves [Translate] : Isolate translation curves [Rotate] : Isolate rotation curves [Scale] : Isolate scale curves [X] : Isolate X axis curves [Y] : Isolate Y axis curves [Z] : Isolate Z axis curves [null] : Isolate Z axis curves [TRS] : Isolate Z axis curves [Custom] : Isolate Z axis curves 

@@ -6,9 +6,9 @@ permalink: tool/ml_breakdown/
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_breakdown.png) Breakdown
 Download [ml_breakdown.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_breakdown.py)
 
-| Revision | 3 |
+| Revision | 4 |
 |---:|---|
-| Last Update | 2018-02-17 |
+| Last Update | 2018-05-13 |
 | License | [MIT](https://opensource.org/licenses/MIT) |
 
 ## Description
@@ -36,10 +36,6 @@ ml_breakdown.ui()
 ## Installation
 
  Copy this file into your maya scripts directory, for example: C:/Documents and Settings/user/My Documents/maya/scripts/ml_breakdown.py Run the tool in a python shell or shelf button by importing the module, and then calling the primary function: import ml_breakdown ml_breakdown.ui() 
-
-## License
-
- Copyright 2018 Morgan Loomis Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
 
 ## Requirements
 
@@ -69,3 +65,4 @@ ml_breakdown.ui()
 |1|2015-05-13|First publish.|
 |2|2015-05-13|Documentation updates.|
 |3|2018-02-17|Updating license to MIT.|
+|4|2018-05-13|shelf support|
