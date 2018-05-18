@@ -3,7 +3,7 @@ layout: post
 title: Tools Update and Shelf Added
 ---
 
-![shelf](https://github.com/morganloomis/morganloomis.github.io/blob/master/images/animationShelf.png)
+![shelf](https://raw.githubusercontent.com/morganloomis/morganloomis.github.io/master/images/animationShelf.png)
 
 I've finally gotten around to supporting a shelf for the animation tools, it's included in the [gitHub repository](https://github.com/morganloomis/ml_tools) or you can download it individually [here](https://github.com/morganloomis/ml_tools/blob/master/prefs/shelves/shelf_MLAnim.mel).
 
