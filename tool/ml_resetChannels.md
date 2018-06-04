@@ -6,9 +6,9 @@ permalink: tool/ml_resetChannels/
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_resetChannels.png) Reset Channels
 Download [ml_resetChannels.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_resetChannels.py)
 
-| Revision | 11 |
+| Revision | 12 |
 |---:|---|
-| Last Update | 2018-05-13 |
+| Last Update | 2018-06-04 |
 | License | [MIT](https://opensource.org/licenses/MIT) |
 
 ## Description
@@ -52,3 +52,4 @@ ml_resetChannels.main()
 |9|2015-05-16|argument update in order to be supported in puppet context menu.|
 |10|2018-02-17|Updating license to MIT.|
 |11|2018-05-13|shelf support|
+|12|2018-06-04|bug fix for nodes with no keyable channels|
