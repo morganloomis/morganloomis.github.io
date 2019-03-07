@@ -4,7 +4,7 @@ permalink: tool/ml_controlLibrary/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_controlLibrary.png) Control Library
-Download [ml_controlLibrary.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_controlLibrary.py)
+Download [ml_controlLibrary.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_controlLibrary.py)
 
 | Revision | 4 |
 |---:|---|

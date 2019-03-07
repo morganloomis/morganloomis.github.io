@@ -4,7 +4,7 @@ permalink: tool/ml_utilities/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_utilities.png) Utilities
-Download [ml_utilities.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_utilities.py)
+Download [ml_utilities.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_utilities.py)
 
 | Revision | 33 |
 |---:|---|

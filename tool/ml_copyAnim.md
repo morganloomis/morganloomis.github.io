@@ -4,7 +4,7 @@ permalink: tool/ml_copyAnim/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_copyAnim.png) Copy Anim
-Download [ml_copyAnim.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_copyAnim.py)
+Download [ml_copyAnim.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_copyAnim.py)
 
 | Revision | 9 |
 |---:|---|

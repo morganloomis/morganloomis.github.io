@@ -4,7 +4,7 @@ permalink: tool/ml_transferKeytimes/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_transferKeytimes.png) Transfer Keytimes
-Download [ml_transferKeytimes.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_transferKeytimes.py)
+Download [ml_transferKeytimes.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_transferKeytimes.py)
 
 | Revision | 3 |
 |---:|---|

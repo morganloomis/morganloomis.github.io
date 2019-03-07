@@ -4,7 +4,7 @@ permalink: tool/ml_parentShape/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_parentShape.png) Parent Shape
-Download [ml_parentShape.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_parentShape.py)
+Download [ml_parentShape.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_parentShape.py)
 
 | Revision | 2 |
 |---:|---|

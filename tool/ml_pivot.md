@@ -4,7 +4,7 @@ permalink: tool/ml_pivot/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_pivot.png) Pivot
-Download [ml_pivot.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_pivot.py)
+Download [ml_pivot.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_pivot.py)
 
 | Revision | 4 |
 |---:|---|

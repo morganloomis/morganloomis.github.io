@@ -4,7 +4,7 @@ permalink: tool/ml_hold/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_hold.png) Hold
-Download [ml_hold.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_hold.py)
+Download [ml_hold.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_hold.py)
 
 | Revision | 8 |
 |---:|---|

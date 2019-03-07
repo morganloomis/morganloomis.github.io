@@ -4,7 +4,7 @@ permalink: tool/ml_breakdown/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_breakdown.png) Breakdown
-Download [ml_breakdown.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_breakdown.py)
+Download [ml_breakdown.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_breakdown.py)
 
 | Revision | 4 |
 |---:|---|

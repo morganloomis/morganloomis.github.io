@@ -4,7 +4,7 @@ permalink: tool/ml_selectKeyed/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_selectKeyed.png) Select Keyed
-Download [ml_selectKeyed.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_selectKeyed.py)
+Download [ml_selectKeyed.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_selectKeyed.py)
 
 | Revision | 7 |
 |---:|---|

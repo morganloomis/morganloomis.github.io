@@ -4,7 +4,7 @@ permalink: tool/ml_colorControl/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_colorControl.png) Color Control
-Download [ml_colorControl.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_colorControl.py)
+Download [ml_colorControl.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_colorControl.py)
 
 | Revision | 2 |
 |---:|---|

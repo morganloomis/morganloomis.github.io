@@ -4,7 +4,7 @@ permalink: tool/ml_copySkin/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_copySkin.png) Copy Skin
-Download [ml_copySkin.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_copySkin.py)
+Download [ml_copySkin.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_copySkin.py)
 
 | Revision | 2 |
 |---:|---|

@@ -4,7 +4,7 @@ permalink: tool/ml_convertRotationOrder/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_convertRotationOrder.png) Convert Rotation Order
-Download [ml_convertRotationOrder.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_convertRotationOrder.py)
+Download [ml_convertRotationOrder.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_convertRotationOrder.py)
 
 | Revision | 5 |
 |---:|---|

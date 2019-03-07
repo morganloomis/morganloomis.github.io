@@ -4,7 +4,7 @@ permalink: tool/ml_centerOfMass/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_centerOfMass.png) Center Of Mass
-Download [ml_centerOfMass.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_centerOfMass.py)
+Download [ml_centerOfMass.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_centerOfMass.py)
 
 | Revision | 2 |
 |---:|---|

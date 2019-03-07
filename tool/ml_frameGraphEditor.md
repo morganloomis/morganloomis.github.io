@@ -4,7 +4,7 @@ permalink: tool/ml_frameGraphEditor/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_frameGraphEditor.png) Frame Graph Editor
-Download [ml_frameGraphEditor.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_frameGraphEditor.py)
+Download [ml_frameGraphEditor.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_frameGraphEditor.py)
 
 | Revision | 5 |
 |---:|---|

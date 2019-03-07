@@ -4,7 +4,7 @@ permalink: tool/ml_toolbox/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_toolbox.png) Toolbox
-Download [ml_toolbox.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_toolbox.py)
+Download [ml_toolbox.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_toolbox.py)
 
 | Revision | 6 |
 |---:|---|

@@ -4,7 +4,7 @@ permalink: tool/ml_toggleVisibility/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_toggleVisibility.png) Toggle Visibility
-Download [ml_toggleVisibility.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_toggleVisibility.py)
+Download [ml_toggleVisibility.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_toggleVisibility.py)
 
 | Revision | 4 |
 |---:|---|

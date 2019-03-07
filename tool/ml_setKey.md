@@ -4,7 +4,7 @@ permalink: tool/ml_setKey/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_setKey.png) Set Key
-Download [ml_setKey.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_setKey.py)
+Download [ml_setKey.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_setKey.py)
 
 | Revision | 11 |
 |---:|---|

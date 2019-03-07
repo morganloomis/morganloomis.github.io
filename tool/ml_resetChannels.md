@@ -4,7 +4,7 @@ permalink: tool/ml_resetChannels/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_resetChannels.png) Reset Channels
-Download [ml_resetChannels.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_resetChannels.py)
+Download [ml_resetChannels.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_resetChannels.py)
 
 | Revision | 12 |
 |---:|---|

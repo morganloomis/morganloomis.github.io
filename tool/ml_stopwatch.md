@@ -4,7 +4,7 @@ permalink: tool/ml_stopwatch/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_stopwatch.png) Stopwatch
-Download [ml_stopwatch.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_stopwatch.py)
+Download [ml_stopwatch.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_stopwatch.py)
 
 | Revision | 4 |
 |---:|---|

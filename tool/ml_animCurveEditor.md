@@ -4,7 +4,7 @@ permalink: tool/ml_animCurveEditor/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_animCurveEditor.png) Anim Curve Editor
-Download [ml_animCurveEditor.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_animCurveEditor.py)
+Download [ml_animCurveEditor.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_animCurveEditor.py)
 
 | Revision | 6 |
 |---:|---|

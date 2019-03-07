@@ -4,7 +4,7 @@ permalink: tool/ml_cameraDepthDragger/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_cameraDepthDragger.png) Camera Depth Dragger
-Download [ml_cameraDepthDragger.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_cameraDepthDragger.py)
+Download [ml_cameraDepthDragger.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_cameraDepthDragger.py)
 
 | Revision | 4 |
 |---:|---|

@@ -4,7 +4,7 @@ permalink: tool/ml_graphEditorMask/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_graphEditorMask.png) Graph Editor Mask
-Download [ml_graphEditorMask.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_graphEditorMask.py)
+Download [ml_graphEditorMask.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_graphEditorMask.py)
 
 | Revision | 2 |
 |---:|---|

@@ -4,7 +4,7 @@ permalink: tool/ml_softWeights/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_softWeights.png) Soft Weights
-Download [ml_softWeights.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_softWeights.py)
+Download [ml_softWeights.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_softWeights.py)
 
 | Revision | 2 |
 |---:|---|

@@ -4,7 +4,7 @@ permalink: tool/ml_lockAndHideAttributes/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_lockAndHideAttributes.png) Lock And Hide Attributes
-Download [ml_lockAndHideAttributes.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_lockAndHideAttributes.py)
+Download [ml_lockAndHideAttributes.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_lockAndHideAttributes.py)
 
 | Revision | 3 |
 |---:|---|

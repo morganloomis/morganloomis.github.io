@@ -4,7 +4,7 @@ permalink: tool/ml_puppet/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_puppet.png) Puppet
-Download [ml_puppet.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_puppet.py)
+Download [ml_puppet.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_puppet.py)
 
 | Revision | 25 |
 |---:|---|

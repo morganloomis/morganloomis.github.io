@@ -4,7 +4,7 @@ permalink: tool/ml_ballisticAnimation/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_ballisticAnimation.png) Ballistic Animation
-Download [ml_ballisticAnimation.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_ballisticAnimation.py)
+Download [ml_ballisticAnimation.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_ballisticAnimation.py)
 
 | Revision | 2 |
 |---:|---|

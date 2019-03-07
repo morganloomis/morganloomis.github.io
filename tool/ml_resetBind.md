@@ -4,7 +4,7 @@ permalink: tool/ml_resetBind/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_resetBind.png) Reset Bind
-Download [ml_resetBind.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_resetBind.py)
+Download [ml_resetBind.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_resetBind.py)
 
 | Revision | 2 |
 |---:|---|

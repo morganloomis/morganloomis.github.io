@@ -4,7 +4,7 @@ permalink: tool/ml_deleteKey/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_deleteKey.png) Delete Key
-Download [ml_deleteKey.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_deleteKey.py)
+Download [ml_deleteKey.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_deleteKey.py)
 
 | Revision | 9 |
 |---:|---|

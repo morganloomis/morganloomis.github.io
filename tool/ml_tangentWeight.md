@@ -4,7 +4,7 @@ permalink: tool/ml_tangentWeight/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_tangentWeight.png) Tangent Weight
-Download [ml_tangentWeight.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_tangentWeight.py)
+Download [ml_tangentWeight.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_tangentWeight.py)
 
 | Revision | 5 |
 |---:|---|

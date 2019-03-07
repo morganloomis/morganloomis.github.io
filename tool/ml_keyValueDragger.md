@@ -4,7 +4,7 @@ permalink: tool/ml_keyValueDragger/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_keyValueDragger.png) Key Value Dragger
-Download [ml_keyValueDragger.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_keyValueDragger.py)
+Download [ml_keyValueDragger.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_keyValueDragger.py)
 
 | Revision | 5 |
 |---:|---|

@@ -4,7 +4,7 @@ permalink: tool/ml_goToKeyframe/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_goToKeyframe.png) Go To Keyframe
-Download [ml_goToKeyframe.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_goToKeyframe.py)
+Download [ml_goToKeyframe.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_goToKeyframe.py)
 
 | Revision | 5 |
 |---:|---|

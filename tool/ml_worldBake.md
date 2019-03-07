@@ -4,7 +4,7 @@ permalink: tool/ml_worldBake/
 ---
 
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_worldBake.png) World Bake
-Download [ml_worldBake.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_worldBake.py)
+Download [ml_worldBake.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/scripts/ml_worldBake.py)
 
 | Revision | 15 |
 |---:|---|
