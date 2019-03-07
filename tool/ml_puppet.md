@@ -6,9 +6,9 @@ permalink: tool/ml_puppet/
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_puppet.png) Puppet
 Download [ml_puppet.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_puppet.py)
 
-| Revision | 24 |
+| Revision | 25 |
 |---:|---|
-| Last Update | 2018-02-17 |
+| Last Update | 2018-10-03 |
 | License | [MIT](https://opensource.org/licenses/MIT) |
 
 ## Description
@@ -69,3 +69,4 @@ ml_puppet.main()
 |22|2017-06-30|proper testing for puppet|
 |23|2017-07-07|space switch and mirroring bugs|
 |24|2018-02-17|Updating license to MIT.|
+|25|2018-10-03|Pole vector matching is now math|

@@ -6,9 +6,9 @@ permalink: tool/ml_copyAnim/
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_copyAnim.png) Copy Anim
 Download [ml_copyAnim.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_copyAnim.py)
 
-| Revision | 8 |
+| Revision | 9 |
 |---:|---|
-| Last Update | 2018-05-13 |
+| Last Update | 2018-06-27 |
 | License | [MIT](https://opensource.org/licenses/MIT) |
 
 ## Description
@@ -65,3 +65,4 @@ ml_copyAnim.ui()
 |6|2018-02-17|Updating license to MIT.|
 |7|2018-05-06|Copy to multiple, shelf support.|
 |8|2018-05-13|shelf support|
+|9|2018-06-27|bug fix for rotateOrder|

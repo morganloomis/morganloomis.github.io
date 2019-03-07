@@ -6,9 +6,9 @@ permalink: tool/ml_utilities/
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_utilities.png) Utilities
 Download [ml_utilities.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_utilities.py)
 
-| Revision | 32 |
+| Revision | 33 |
 |---:|---|
-| Last Update | 2018-02-17 |
+| Last Update | 2018-07-18 |
 | License | [MIT](https://opensource.org/licenses/MIT) |
 
 ## Description
@@ -82,3 +82,4 @@ ml_utilities.main()
 |30|2017-06-13|unify version test, isolate view update|
 |31|2017-06-30|getCamera support for stereo camera|
 |32|2018-02-17|Updating license to MIT.|
+|33|2018-07-18|getNamespace bug|

@@ -6,9 +6,9 @@ permalink: tool/ml_worldBake/
 # ![icon](https://raw.githubusercontent.com/morganloomis/ml_tools/master/icons//ml_worldBake.png) World Bake
 Download [ml_worldBake.py](https://raw.githubusercontent.com/morganloomis/ml_tools/master/ml_worldBake.py)
 
-| Revision | 13 |
+| Revision | 15 |
 |---:|---|
-| Last Update | 2018-02-17 |
+| Last Update | 2018-07-18 |
 | License | [MIT](https://opensource.org/licenses/MIT) |
 
 ## Description
@@ -39,7 +39,7 @@ ml_worldBake.ui()
 
 ## Ui
 
- [Bake Selection To Locators] : Bake selected object to locators specified space. [Bake Selected Locators Back To Objects] : Bake from selected locators back to their source objects. [Bake Selected] : Bake from the first selected object directly to the second. [Bake Selected With Offset] : Bake from the first selected object directly to the second, maintaining offset. 
+ [Bake Selection To Locators] : Bake selected object to locators specified space. [Bake Selected Locators Back To Objects] : Bake from selected locators back to their source objects. [Re-Parent Animated] : Parent all selected nodes to the last selection. [Un-Parent Animated] : Parent all selected to world. [Bake Selected] : Bake from the first selected object directly to the second. [Bake Selected With Offset] : Bake from the first selected object directly to the second, maintaining offset. 
 
 ## Requirements
 
@@ -51,6 +51,8 @@ ml_worldBake.ui()
 |<button type="button">Bake Selection To Locators</button>|Bake selected object to locators specified space.|Right-click to create a shelf or hotkey|
 |---|---|---|
 |<button type="button">Bake Selected Locators Back To Objects</button>|Bake from selected locators back to their source objects.|Right-click to create a shelf or hotkey|
+|<button type="button">Re-Parent Animated</button>|Parent all selected nodes to the last selection.|Right-click to create a shelf or hotkey|
+|<button type="button">Un-Parent Animated</button>|Parent all selected to world.|Right-click to create a shelf or hotkey|
 |<button type="button">Bake Selected</button>|Bake from the first selected object directly to the second.|Right-click to create a shelf or hotkey|
 |<button type="button">Bake Selected With Offset</button>|Bake from the first selected object directly to the second, maintaining offset.|Right-click to create a shelf or hotkey|
 
@@ -67,3 +69,5 @@ ml_worldBake.ui()
 |11|2014-03-01|adding category|
 |12|2015-05-14|Baking broken out and moved to ml_utilities|
 |13|2018-02-17|Updating license to MIT.|
+|14|2018-06-27|parenting options and marking menu|
+|15|2018-07-18|marking menu|
