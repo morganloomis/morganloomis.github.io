@@ -11,7 +11,7 @@ If you want to always keep everything up to date, your best bet is to clone my [
 
 If you’re happy with these tools and would like to see more, consider supporting my [Patreon](https://www.patreon.com/morganloomis).
 
-Download the [animation shelf](https://github.com/morganloomis/ml_tools/blob/master/prefs/shelves/shelf_MLAnim.mel).
+Download the [animation shelf](https://raw.githubusercontent.com/morganloomis/ml_tools/master/shelves/shelf_MLAnim.mel).
 
 | Icon | Download | Description |
 |-|-|-|
